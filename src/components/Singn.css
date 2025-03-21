@@ -1,0 +1,12 @@
+.main{
+    top: 500px;
+    text-align: center;
+    left: 300px;
+    position: absolute;
+}
+.main2{
+    background-color: black;
+    position: relative;
+    width: 100vw;
+    height: 80vw;
+}
